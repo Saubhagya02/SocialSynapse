@@ -4,7 +4,7 @@ An advanced AI-powered platform for autonomous LinkedIn content creation, schedu
 ✨ Key Features
 Core Functionalities
 
-🤖 AI Content Generation - GPT-4 powered content creation with multiple formats
+🤖 AI Content Generation - Gemini powered content creation with multiple formats
 📊 Industry Trend Analysis - Real-time trend detection and content suggestions
 📅 Smart Scheduling - Automated posting at optimal engagement times
 📈 Analytics Dashboard - Comprehensive performance tracking and insights
@@ -25,7 +25,7 @@ Backend
 
 FastAPI - High-performance Python web framework
 LangChain - AI orchestration and chain management
-OpenAI GPT-4 - Advanced content generation
+Google Gemini 2.5 Pro - Advanced content generation
 PostgreSQL - Primary database
 Redis - Caching and job queue
 Celery - Task scheduling and automation
