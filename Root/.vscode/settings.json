@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/node_modules": true,
+    "**/.next": true
+  }
+}
