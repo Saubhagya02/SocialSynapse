@@ -30,3 +30,14 @@ build/
 # Database files
 *.sqlite
 *.db
+
+node_modules/
+.env
+.env.local
+__pycache__/
+*.pyc
+venv/
+.next/
+dist/
+Backend/.env
+.DS_Store
